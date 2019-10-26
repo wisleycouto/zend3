@@ -22,11 +22,7 @@ class Post
 
 		return $this->id;
 	}
-	public function getId()
-	{
-
-		return $this->id;
-	}
+	
 	public function getTitle()
 	{
 
